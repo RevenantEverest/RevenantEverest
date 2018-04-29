@@ -1,0 +1,29 @@
+{
+  "name": "revenanteverest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RevenantEverest/RevenantEverest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RevenantEverest/RevenantEverest/issues"
+  },
+  "homepage": "https://github.com/RevenantEverest/RevenantEverest#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "method-override": "^2.3.10",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.17.3",
+    "pg-promise": "^8.4.0"
+  }
+}

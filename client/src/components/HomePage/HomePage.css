@@ -1,0 +1,12 @@
+.HomePage-box1 {
+  height: 90vh;
+  width: 100%;
+  background-image: url(../../public/images/MountainBackground.jpg);
+  background-repeat: no-repeat;
+}
+
+.HomePage-box1-vignette {
+  height: 90vh;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+}
